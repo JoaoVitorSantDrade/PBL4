@@ -1,0 +1,8 @@
+Cruzamento 5,Coleta 0,10
+Cruzamento 6,Coleta 0,10
+Cruzamento 6,Cruzamento 9,10
+Cruzamento 9,Cruzamento 6,10
+Cruzamento 9,Cruzamento 10,10
+Cruzamento 10,Cruzamento 9,10
+Coleta 0,Cruzamento 5,10
+Coleta 0,Cruzamento 6,10

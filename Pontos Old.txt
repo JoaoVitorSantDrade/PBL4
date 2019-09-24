@@ -1,0 +1,15 @@
+Estacionamento 0,0,275.0,135.0
+Cruzamento 0,1,559.0,110.0
+Cruzamento 1,1,798.0,329.0
+Cruzamento 2,1,954.0,435.0
+Cruzamento 3,1,597.0,571.0
+Cruzamento 4,1,291.0,489.0
+Cruzamento 5,1,487.0,374.0
+Cruzamento 6,1,661.0,373.0
+Cruzamento 7,1,774.0,513.0
+Cruzamento 8,1,919.0,207.0
+Cruzamento 9,1,663.0,230.0
+Cruzamento 10,1,301.0,233.0
+Cruzamento 11,1,49.0,341.0
+Coleta 0,2,545.0,414.0
+Banco 0,3,938.0,291.0
